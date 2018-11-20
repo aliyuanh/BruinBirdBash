@@ -1,0 +1,13 @@
+{
+"companyName": "00t Squad",
+"productName": "Bruin Bird Bash",
+"dataUrl": "BruinBirdBash.data.unityweb",
+"wasmCodeUrl": "BruinBirdBash.wasm.code.unityweb",
+"wasmFrameworkUrl": "BruinBirdBash.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
